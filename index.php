@@ -1,0 +1,2 @@
+<?php
+// Disable directory index

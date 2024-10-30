@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metamatic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-12 01:27+0300\n"
+"PO-Revision-Date: 2010-07-12 01:27+0300\n"
+"Last-Translator: sdg <fasdf>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;metamatic_e;metamatic_t;_e;__\n"
+"X-Poedit-Basepath: G:\\projects\\mf\\wordpress\\wp-content\\plugins\\metamatic\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: G:\\projects\\mf\\wordpress\\wp-content\\plugins\\metamatic\n"
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/client.php:61
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:348
+msgid "Metamatic"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/client.php:63
+msgid "Powered by Metamatic"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/client.php:65
+msgid "Visit Metamatic site"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/install-update.php:32
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:358
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:377
+msgid "Favorite sites"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/install-update.php:38
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/ui.php:44
+msgid "Friends feed"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/interface.php:40
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/interface.php:86
+msgid "Invalid site address specified"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:192
+msgid "Metamatic settings"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:196
+msgid "Display settings"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:199
+msgid "\"Powered by Metamatic\""
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:204
+msgid "Show appreciation to plugin authors by showing \"Powered by Metamatic\" link"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:209
+msgid "Quick Links"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:212
+#, php-format
+msgid "Metamatic provides <a href=\"%s\">Favorites</a> and <a href=\"%s\">Friends feed</a> pages."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:219
+msgid "Personal information"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:220
+msgid "Place here information that will be accessible to your site visitors."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:224
+msgid "About yourself"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:229
+msgid "Write something about yourself. This will describe your blog to Metamatic visitors."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:236
+msgid "Interests"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:244
+msgid "List your interests, comma-separated, for example: <strong>computers, music, sports</strong>. Interests are displayed at Metamatic site."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:250
+msgid "Communication settings"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:251
+msgid "These settings are used for interaction between your browser plugin and this blog."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:254
+msgid "Public accessibility"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:258
+msgid "List my blog in Metamatic network and receive friend notifications."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:264
+msgid "Access Key"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:268
+msgid "This value must match key value configured in browser plugin."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:274
+msgid "Server URL"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:278
+msgid "Leave thes field empty to use main Metamatic server."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:286
+msgid "Save Changes"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:295
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/friendfeed.php:18
+msgid "Refresh friends feed"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:301
+msgid "Synchronize with Metamatic Hub"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:338
+msgid "Settings"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:347
+msgid "Metamatic Settings"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:367
+msgid "Metamatic: Favorites"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:368
+msgid "Displays list of favorite sites."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/metamatic.php:391
+msgid "Title:"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/ui.php:40
+#, php-format
+msgid "...%d more"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/ui.php:43
+msgid "See all my favorite sites"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/ui.php:43
+#, php-format
+msgid "%d friends total"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/ui.php:44
+msgid "Read posts from my favorite sites"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:21
+msgid "Add to favorites..."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:22
+msgid "Import from site..."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:24
+msgid "Select all"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:25
+msgid "Delete selected"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:33
+msgid "Enter site address here:"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:39
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:172
+msgid "Cancel"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:63
+msgid "Enter web site address, please"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:66
+msgid "Please wait..."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:110
+msgid "Add site to favorites"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:113
+msgid "Import friends"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:138
+msgid "Failed to add site..."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:142
+msgid "Communication to server failed."
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:169
+#, php-format
+msgid "Are you sure you want to delete %d favorites?"
+msgstr ""
+
+#: G:\projects\mf\wordpress\wp-content\plugins\metamatic/pages/favorites.php:170
+msgid "Delete favorites"
+msgstr ""
+

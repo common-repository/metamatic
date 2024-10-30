@@ -1,0 +1,18 @@
+.metamatic h1 { font-weight: bold; font-size: 120%; }
+.metamatic h2 { font-weight: bold; font-size: 110%; }
+
+.metamatic hr { clear: both; }
+
+.metamatic ul.assets { margin: 0 !important; padding-left: 0; }
+.metamatic ul.assets li { display: inline-block; margin: 0 10px 2px 0 !important; padding: 0 !important; background: transparent !important; }
+.metamatic ul.assets li:before { content : '' !important; }
+.metamatic a.ass {line-height: 18px !important; padding: 0 0 2px 17px !important; background-repeat: no-repeat !important;}
+.metamatic a.a_lj { background-image: url('asset/lj.gif'); }
+.metamatic a.a_http { background-image: url('asset/site.png'); }
+.metamatic a.a_blogspot { background-image: url('asset/blogspot.png'); }
+.metamatic a.a_liveinternet { background-image: url('asset/liveinternet.png'); }
+
+.metamatic .small { font-size: 70%; }
+.metamatic button { margin-bottom: 5px; }
+
+.metamatic.inline-items .view-content .views-row { display: inline-block; margin-right: 8px; margin-bottom: 3px; }
